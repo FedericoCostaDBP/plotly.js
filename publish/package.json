@@ -6,10 +6,10 @@
   "main": "plotly.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/plotly/plotly.js.git"
+    "url": "https://github.com/FedericoCostaDBP/plotly.js"
   },
   "bugs": {
-    "url": "https://github.com/plotly/plotly.js/issues"
+    "url": "https://github.com/FedericoCostaDBP/plotly.js"
   },
   "author": "Plotly, Inc.",
   "keywords": [
