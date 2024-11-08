@@ -1,9 +1,9 @@
 {
-  "name": "plotly.js-dist-min",
-  "version": "2.34.0",
+  "name": "ppl-plotly.js-dist-min",
+  "version": "2.35.2 -cutom",
   "description": "Ready-to-use minified plotly.js distributed bundle.",
   "license": "MIT",
-  "main": "plotly.min.js",
+  "main": "plotly-PPLplotlyBundle.min.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/FedericoCostaDBP/plotly.js"
@@ -20,8 +20,6 @@
     "plotly"
   ],
   "files": [
-    "LICENSE",
-    "README.md",
-    "plotly.min.js"
+    "plotly-PPLplotlyBundle.min.js"
   ]
 }
