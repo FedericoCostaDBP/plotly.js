@@ -1,0 +1,11 @@
+- Fork the plotly repo
+- `npm i`
+- `npm run custom-bundle -- --out PPLplotlyBundle --traces scatter,barpolar,histogram`
+- Find the generated file in the dist
+- Copy + paste into the PPL-plotly-bundle folder
+- find the generated file in the lib
+- Copy + paste into the PPL-plotly-bundle folder
+- Open PPL-plotly-bundle folder in terminal
+- `npm login`
+- `npm publish`
+- if updating version change the version number, then `npm publish`

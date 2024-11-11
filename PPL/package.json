@@ -1,0 +1,26 @@
+{
+  "name": "plotly-ppl.js-dist-min",
+  "version": "2.35.2-2",
+  "description": "Plotly bundle with scatter, barpolar and histogram",
+  "license": "MIT",
+  "main": "plotly-PPL.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FedericoCostaDBP/plotly.js"
+  },
+  "bugs": {
+    "url": "https://github.com/FedericoCostaDBP/plotly.js"
+  },
+  "author": "Plotly, Inc.",
+  "keywords": [
+    "graphing",
+    "plotting",
+    "data",
+    "visualization",
+    "plotly"
+  ],
+  "files": [
+    "plotly-PPL.min.js",
+    "index-PPL.js"
+  ]
+}
