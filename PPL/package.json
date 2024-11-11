@@ -1,6 +1,6 @@
 {
   "name": "plotly-ppl.js-dist-min",
-  "version": "2.35.2-2",
+  "version": "2.35.2-3",
   "description": "Plotly bundle with scatter, barpolar and histogram",
   "license": "MIT",
   "main": "plotly-PPL.min.js",
@@ -20,7 +20,6 @@
     "plotly"
   ],
   "files": [
-    "plotly-PPL.min.js",
-    "index-PPL.js"
+    "plotly-PPL.min.js"
   ]
 }
